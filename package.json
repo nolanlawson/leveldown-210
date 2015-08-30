@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "level-sublevel": "^6.4.6",
     "leveldown": "^1.4.1",
     "levelup": "^1.2.1",
     "rimraf": "^2.4.3"
